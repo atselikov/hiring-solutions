@@ -1,7 +1,7 @@
 ## Overview 
 10th-place Solution for Data Mining the Water Table Competition (December 2017)
 https://www.drivendata.org/competitions/7/
-[For detailed solution report check] (solution overview/Mining the Water Report.pdf)
+For detailed solution check [report] (https://github.com/atselikov/hiring-solutions/blob/master/kilabs/solution%20overview/Mining%20the%20Water%20Report.pdf)
 
 ## Prerequisites
 sklearn
